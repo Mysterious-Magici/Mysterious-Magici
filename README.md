@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm AKASH KARMAKAR
 
-<!--
-**Mysterious-Magici/Mysterious-Magici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analytics | Business Analytics | Data Science | AI/ML | SEO
 
-Here are some ideas to get you started:
+I turn data into actionable insights that drive smarter decisions and measurable business growth. Passionate about analytics, AI, and solving real-world business problems with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Professional Summary
+
+🔭 Data Analyst Intern at Codec Technologies
+
+🌱 Learning Data & Business Analytics with business-driven insights
+
+📊 Skilled in SQL, Excel, Power BI, Python & ML basics
+
+🤝 Open to collaboration on analytics & AI projects
+
+📫 Connect
+
+📧 akashkarmakar10022003@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/akashkarmakar2003/

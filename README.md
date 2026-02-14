@@ -14,15 +14,12 @@ I turn data into actionable insights that drive smarter decisions and measurable
 
 🛠 Tools & Technologies
 
-Languages: Python, SQL
-Analytics: Excel, Power BI, Tableau
-ML: Scikit-learn (Basics)
-Marketing & SEO: Google Analytics, Search Console
-Creative: Premiere Pro, Canva
-Other: MS Office, GitHub
+Languages: Python(DSA), SQL(MySQL), Java, C
+Analytics: Excel, Power BI, Tableau, Numpy, Pandas, Matplotlib, Seaborn, Scipy, Statistics
+Other: MS Office, GitHub, Ms Power Point, Canva, Kinemaster, Google Slides, Google Sheets
 
 📫 Connect
 
-📧 akashkarmakar10022003@gmail.com
-
+📧 akashkarmakar10022003@gmail.com (Primary)
+📧 cuttonkarmakar@gmail.com
 🔗 LinkedIn:  https://www.linkedin.com/in/akashkarmakar2003/

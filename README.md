@@ -4,7 +4,6 @@ Data Analytics | Business Analytics | Data Science | AI/ML | SEO
 
 I turn data into actionable insights that drive smarter decisions and measurable business growth. Passionate about analytics, AI, and solving real-world business problems with data.
 
-🚀 Professional Summary
 
 🔭 Data Analyst Intern at Codec Technologies
 
